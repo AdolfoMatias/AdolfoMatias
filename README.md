@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://github.com/AdolfoMatias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdolfoMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoMatias&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-<!--
-**AdolfoMatias/AdolfoMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="html" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img align="center" alt="css" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  <img align="center" alt="python" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="powerbi" width="3.5%" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg"/>
+  <img align="center" alt="mysql" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg"/>
+  <img align="center" alt="git" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+  <img align="center" alt="R language" width="5%" src="https://avatars.githubusercontent.com/u/513560?s=200&v=4"/>
 
-Here are some ideas to get you started:
+</div>
+  
+  ##
+  
+  
+<div style="display: inline_block" align="center"><br>
+  <a href="https://www.linkedin.com/in/adolfo-matias-5a3144128/" target="_blank"><img align="center" alt="linkedin" width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:petadolfo@gmail.com" target="_blank"><img align="center" alt="gmail" width="12.1%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://medium.com/@petadolfo" target="_blank"><img align="center" alt="gmail" width="15%" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</div>
+  
+  
+
