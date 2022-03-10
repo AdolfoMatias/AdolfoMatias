@@ -1,7 +1,7 @@
 <div style="display:inline_block" align="center">
   <a href="https://github.com/AdolfoMatias">
   <img height="160em" width="400em" font-size="19px" src="https://github-readme-stats.vercel.app/api?username=AdolfoMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoMatias&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfoMatias&layout=compact&langs_count=8&theme=dracula"/>
   
 </div>
 
@@ -23,7 +23,6 @@
   <a href="https://www.linkedin.com/in/adolfo-matias-5a3144128/" target="blank"><img align="center" alt="linkedin" width="15%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a href="mailto:petadolfo@gmail.com" target="blank"><img align="center" alt="gmail" width="12.1%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <a href="https://medium.com/@petadolfo" target="blank"><img align="center" alt="gmail" width="13.7%" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-
 
 
 </div>
